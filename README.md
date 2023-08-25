@@ -18,10 +18,10 @@ Issue やコメントは日本語でも大丈夫です。
 
 ## Motivation
 
-Unfortunately, I couldn't find any active Twitter API library for Swift at the moment.
+#Mironal Unfortunately, I couldn't find any active Twitter API library for Swift at the moment.
 
 So, I decided to create one.
-
+# Mironal stopped working on this library , i am not good at swift but i will try to update this library as much as possible
 ## Policy
 
 - No dependencies
